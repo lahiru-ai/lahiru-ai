@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm R.J.K. Lahiru Madhushan Ranathunga
 
-<!--
-**lahiru-ai/lahiru-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate – Wayamba University of Sri Lanka  
+💻 Aspiring Software Engineer  
+🌿 Building an AI-Powered Sri Lankan Herb Identification Platform  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus (Year 1)
+
+- Frontend Development (HTML, CSS, JavaScript)
+- Git & GitHub Mastery
+- Web Deployment
+- Clean Project Architecture
+
+🔗 Live Project:  
+https://lahiru-ai.github.io/sri-lankan-herb-website/
+
+---
+
+## 🌱 Long-Term Vision (4-Year Roadmap)
+
+Year 1 – Herb Information Website  
+Year 2 – Backend + Database Integration  
+Year 3 – Machine Learning & Image Classification  
+Year 4 – Full AI-Powered Leaf Identification System  
+
+Goal: Build a scalable AI system capable of identifying Sri Lankan medicinal plants using leaf images.
+
+---
+
+## 🛠️ Skills Developing
+
+- C Programming  
+- Python  
+- HTML / CSS / JavaScript  
+- Git & GitHub  
+- Problem Solving  
+
+---
+
+## 📈 Engineering Mindset
+
+- Build → Test → Commit → Push → Deploy  
+- Learn fundamentals deeply  
+- Think long-term  
+- Focus on real-world impact  
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/lahiru-ai  
+Live Project: https://lahiru-ai.github.io/sri-lankan-herb-website/
+
+---
+
+🌿 “Small consistent progress builds powerful systems.”
