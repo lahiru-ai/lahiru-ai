@@ -31,7 +31,8 @@ Goal: Build a scalable AI system capable of identifying Sri Lankan medicinal pla
 
 ## 🛠️ Skills Developing
 
-- C Programming  
+- C Programming
+- Java 
 - Python  
 - HTML / CSS / JavaScript  
 - Git & GitHub  
