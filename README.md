@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm R.J.K. Lahiru Madhushan Ranathunga
 
-### 💻 Aspiring Software Engineer | Full-Stack Developer in Progress
+### 💻 Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Real-World+Software;Learning+Full-Stack+Development;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Real-World+Software;Learning+Full-Stack+Development;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Working+Systems;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
 
-🎓 Undergraduate at **Wayamba University of Sri Lanka**
+🎓 **Undergraduate at Wayamba University of Sri Lanka**
 
-🚀 Building practical software solutions to real-world problems
+🚀 Building practical solutions to real-world problems
 
-🌱 Exploring the intersection of **Software Engineering + AI**
+🌱 Exploring **Software Engineering + Artificial Intelligence**
 
 </div>
