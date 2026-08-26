@@ -1,59 +1,15 @@
+<div align="center">
+
 # 👋 Hi, I'm R.J.K. Lahiru Madhushan Ranathunga
 
-🎓 Undergraduate – Wayamba University of Sri Lanka  
-💻 Aspiring Software Engineer  
-🌿 Building an AI-Powered Sri Lankan Herb Identification Platform  
+### 💻 Aspiring Software Engineer | Full-Stack Developer in Progress
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Real-World+Software;Learning+Full-Stack+Development;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
 
-## 🚀 Current Focus (Year 1)
+🎓 Undergraduate at **Wayamba University of Sri Lanka**
 
-- Frontend Development (HTML, CSS, JavaScript)
-- Git & GitHub Mastery
-- Web Deployment
-- Clean Project Architecture
+🚀 Building practical software solutions to real-world problems
 
-🔗 Live Project:  
-https://lahiru-ai.github.io/sri-lankan-herb-website/
+🌱 Exploring the intersection of **Software Engineering + AI**
 
----
-
-## 🌱 Long-Term Vision (4-Year Roadmap)
-
-Year 1 – Herb Information Website  
-Year 2 – Backend + Database Integration  
-Year 3 – Machine Learning & Image Classification  
-Year 4 – Full AI-Powered Leaf Identification System  
-
-Goal: Build a scalable AI system capable of identifying Sri Lankan medicinal plants using leaf images.
-
----
-
-## 🛠️ Skills Developing
-
-- C Programming
-- Java 
-- Python  
-- HTML / CSS / JavaScript  
-- Git & GitHub  
-- Problem Solving  
-
----
-
-## 📈 Engineering Mindset
-
-- Build → Test → Commit → Push → Deploy  
-- Learn fundamentals deeply  
-- Think long-term  
-- Focus on real-world impact  
-
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/lahiru-ai  
-Live Project: https://lahiru-ai.github.io/sri-lankan-herb-website/
-
----
-
-🌿 “Small consistent progress builds powerful systems.”
+</div>
